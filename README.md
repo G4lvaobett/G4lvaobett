@@ -41,3 +41,4 @@ Tenho facilidade em diagnosticar falhas e estou sempre em busca de evolução t�
   | --- | --- |
   | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat-square&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
   | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat-square&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fafe53874-04d2-4187-91d7-b85e94785289%2Flinked_in_profile) | AWS Academy Cloud Foundations
+  | ![SENAI IA 900](https://img.shields.io/badge/SENAI_-Microsoft_Azure_IA_900-t?style=flat-square&labelColor=%23FF0000&color=black&link=https%3A%2F%2Fwww.sp.senai.br%2Fconsulta-certificado%3Fqrcode%3D13425154447%2F15059858) | Senai Microsoft Azure IA 900
