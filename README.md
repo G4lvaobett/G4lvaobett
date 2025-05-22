@@ -35,3 +35,9 @@ Tenho facilidade em diagnosticar falhas e estou sempre em busca de evolução t�
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
 </p>
 
+  ## Certificações
+
+  | Certificação | Nome | 
+  | --- | --- |
+  | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat-square&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
+  | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat-square&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fafe53874-04d2-4187-91d7-b85e94785289%2Flinked_in_profile) | AWS Academy Cloud Foundations
