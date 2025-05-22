@@ -50,14 +50,17 @@ Tenho facilidade em diagnosticar falhas e estou sempre em busca de evolução t�
   
   - Curso técnico de redes
   - Certificação AZ Microsoft AI 900
-  - Projeto Zabbix (Alfa Guard)
-  - Projeto Azure (TechWave)
+  - Certificação CCNA: Switching, Routing, and Wireless Essentials
+  - Certificação CCNA: Introduction to Networks
+  - Certificação AWS Academy Cloud Foundations
 
   ## Projetos
 
   - Monitoramento On-premisees com uso de Zabbix & Grafana (Alfa Guard)
   - Infraestrutura em nuvem utilizando AWS e Azure (Techwave)
   - Casa IOT (Grupo SmartHome)
+  - Projeto Zabbix (Alfa Guard)
+  - Projeto Azure (TechWave)
 
 
 <p align="center">
